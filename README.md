@@ -25,3 +25,13 @@ Hands-on blue team home lab focused on:
 
 ## Skills Demonstrated
 SIEM | Threat Hunting | SPL | Log Analysis | Detection Engineering
+
+## Repository Structure
+
+- docs/ → Documentation, architecture diagrams and screenshots  
+- detections/ → Threat detection use cases  
+- spl-queries/ → SPL search queries and detections  
+- dashboards/ → Monitoring dashboards  
+- data/ → Sample logs and datasets  
+- mitre-mapping/ → ATT&CK technique mapping  
+- reports/ → Investigation findings
