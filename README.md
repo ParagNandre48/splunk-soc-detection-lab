@@ -1,4 +1,4 @@
-# SOC Analyst Detection Lab using Splunk
+# Splunk SOC Detection Lab (Threat Hunting & Incident Monitoring)
 
 Hands-on blue team home lab focused on:
 - Log analysis
